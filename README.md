@@ -10,4 +10,6 @@ quinto: se utiliza axios para enviar los paquetes
 
 sexto: si no ve resultado revise la consola de su navegador
 
+septimo: debe aparecerle una lista de celulares y proceso terminado
+
 OMAR PEÑA BARRERA - ORLANDO MIGUEL VASQUEZ - OSCAR MORELO CASTILLO
