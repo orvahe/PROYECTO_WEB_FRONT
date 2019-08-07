@@ -10,3 +10,4 @@ quinto: se utiliza axios para enviar los paquetes
 
 sexto: si no ve resultado revise la consola de su navegador
 
+OMAR PEÑA BARRERA - ORLANDO MIGUEL VASQUEZ - OSCAR MORELO CASTILLO
